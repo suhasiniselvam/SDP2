@@ -1,1 +1,16 @@
+Working in Local Repository
+1.	git init
+2.	touch file.txt
+3.	vim file.txt
+4.	git status
+5.	git add file.txt
+6.	git status
+7.	git commit -m “First Commit” file.txt
+8.	git status
+9.	git log
+Working Remote Repository
+1.	git clone URL
+2.	git push -u origin.
+3.	git pull URL
+4.	git rm –cached filename.txt
 
